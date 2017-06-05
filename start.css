@@ -1,0 +1,35 @@
+html{
+  background: url('img/startUp2.png');
+  background-repeat: no-repeat;
+  margin: 10px 300px;
+  background-color: black;
+  overflow: hidden;
+}
+
+#canvas-maze {
+  margin-top: 280px;
+  margin-left: 375px;
+  transform: translate(-50%, -50%);
+  border:1px dashed black;
+}
+
+h1{
+	color: white;
+	font-family: arial;
+}
+
+#stereo{
+	width: 32px;
+	height:32px;
+	left: 25px;
+	top:20px;
+	position: relative;
+}
+
+#cd{
+  width: 32px;
+  height:32px;
+  left: 0px;
+  top:0px;
+  position: relative;
+}

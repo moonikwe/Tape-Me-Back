@@ -1,0 +1,18 @@
+html{
+  background: url('img/gameover.png');
+  background-repeat: no-repeat;
+  margin: 10px 300px;
+  background-color: black;
+  overflow: hidden;
+}
+
+.message{
+  text-align: center;
+  vertical-align: middle;
+  margin-top: 40%;
+}
+h3{
+	color: blue;
+	font-family: arial;
+  font-size: 6em;
+}
